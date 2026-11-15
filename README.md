@@ -20,3 +20,5 @@ Im Kieran Lee Dixon McRae, and these are my themes.
 My Fav is the, RedDragon Theme as its cool as hell, and i hope you guys like it, also these plugins took me 7 months to make and fix, so when i release them, the version will be high, and also the scripts are pretty long, as i don't know how to import from github yet, once i do ill update the themes and then update them wherever i published them which is for now https://themes.equicord.org/ !!
 
 Thanks for using my themes, also please note: and redistrubution of my themes, you will receive a DMCA report for copyright.
+
+You'll find Reddragon theme CSS, Apple Theme CSS. Playstation Theme CSS "5", and some others that i have been working on, please remember i try my best to make everything look better on discord, and i also make the code good enough that it doesnt crash discord like some others i have used from people online. this is my theme i am using currently ill show both loading screen, and screen saver, the rest is up to you. Ill add the image below on 16/11/2026 at 13🕜
